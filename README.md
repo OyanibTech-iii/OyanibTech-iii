@@ -1,5 +1,8 @@
-<h1 align="center">Hi, I'm Pacifico</h1>
-<h3 align="center">A passionate full-stack developer from Philippines</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&color=17D3F7&center=true&vCenter=true&lines=Hi%2C+I+am+Pacifico+;A+Full-Stack+Developer+;From+Philippines+" alt="Typing SVG" />
+</p>
+
+
 <img align="center" src="https://i.pinimg.com/originals/9e/75/9f/9e759fd37ccd98da121b670249f34afa.gif" alt="Welcome Banner" />
 
 
