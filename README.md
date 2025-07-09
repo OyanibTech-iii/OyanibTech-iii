@@ -202,15 +202,26 @@ const currentProjects = [
 
 ## GitHub Activity
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 <div align="center">
   
   ### Thank you for visiting my profile!
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EEAF7,100:4C956C&height=120&section=footer&animation=fadeIn" width="100%"/>
-  
-  **"Building the future, one line of code at a time!"**
-  
-  <img src="https://visitcount.itsvg.in/api?id=oyanibtech-iii&label=Profile%20Views&color=0&icon=5&pretty=false" alt="Profile Views" />
   
 </div>
 
