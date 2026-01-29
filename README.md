@@ -133,12 +133,12 @@ const pacifico = {
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oyanibtech-iii&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0EEAF7&text_color=ffffff&icon_color=0EEAF7" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oyanibtech-iii&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0EEAF7&text_color=ffffff&icon_color=0EEAF7" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyanibtech-iii&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=0EEAF7&text_color=ffffff" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oyanibtech-iii&theme=radical&hide_border=true&background=0d1117&stroke=0EEAF7&ring=0EEAF7&fire=0EEAF7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0EEAF7&sideLabels=0EEAF7&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oyanibtech-iii&theme=radical&hide_border=true&background=0d1117&stroke=0EEAF7&ring=0EEAF7&fire=0EEAF7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0EEAF7&sideLabels=0EEAF7&dates=ffffff" alt="GitHub Streak" />
 </div>
 
 ---
@@ -217,12 +217,4 @@ const currentProjects = [
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EEAF7,100:4C956C&height=120&section=footer&animation=fadeIn" width="100%"/>
   
 </div>
-## 🏆 GitHub Trophies
 
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=OyanibTech-iii&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)](https://github.com/OyanibTech-iii)
-
-</div>
-
----
