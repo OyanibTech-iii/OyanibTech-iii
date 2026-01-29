@@ -217,4 +217,15 @@ const currentProjects = [
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EEAF7,100:4C956C&height=120&section=footer&animation=fadeIn" width="100%"/>
   
 </div>
+## 💭 Fun Facts & Quotes
+
+<div align="center">
+
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+> "First, solve the problem. Then, write the code." – John Johnson
+
+> "The best error message is the one that never shows up." – Thomas Fuchs
+
+</div>
 
