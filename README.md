@@ -159,6 +159,11 @@ const pacifico = {
 ```javascript
 const currentProjects = [
   {
+    name: "Web Application",
+    tech: ["twig", "symfony", "MySQL"],
+    status: "In Progress"
+  },
+  {
     name: "Full-Stack Web Application",
     tech: ["React", "Node.js", "MongoDB"],
     status: "In Progress"
@@ -177,7 +182,7 @@ const currentProjects = [
 ```
 
 ### Learning Journey
-- **Currently Learning**: React Native, Laravel Advanced Features
+- **Currently Learning**: symfony, React Native, Laravel Advanced Features
 - **Next Goals**: GraphQL, Docker, Microservices
 - **Always Improving**: Clean Code, Design Patterns, Performance Optimization
 
