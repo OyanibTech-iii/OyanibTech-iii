@@ -153,7 +153,7 @@ const pacifico = {
 
 ## Current Projects & Focus
 
-<div align="center">
+
 
 ### Featured Projects
 ```javascript
@@ -181,7 +181,7 @@ const currentProjects = [
 - **Next Goals**: GraphQL, Docker, Microservices
 - **Always Improving**: Clean Code, Design Patterns, Performance Optimization
 
-</div>
+
 
 ---
 
