@@ -102,15 +102,8 @@
 
 ---
 
-
-## GitHub Analytics
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oyanibtech-iii&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0EEAF7&text_color=ffffff&icon_color=0EEAF7" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyanibtech-iii&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=0EEAF7&text_color=ffffff" alt="Top Languages" />
-</div>
-
-<div align="center">
+  ## Github Analytics
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oyanibtech-iii&theme=radical&hide_border=true&background=0d1117&stroke=0EEAF7&ring=0EEAF7&fire=0EEAF7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0EEAF7&sideLabels=0EEAF7&dates=ffffff" alt="GitHub Streak" />
 </div>
 
@@ -124,52 +117,6 @@
 
 ---
 
-## Current Projects & Focus
-
-
-
-### Featured Projects
-```javascript
-const currentProjects = [
-  {
-    name: "Web Application",
-    tech: ["twig", "symfony", "MySQL"],
-    status: "In Progress"
-  },
-  {
-    name: "Full-Stack Web Application",
-    tech: ["React", "Node.js", "MongoDB"],
-    status: "In Progress"
-  },
-  {
-    name: "Mobile App Development",
-    tech: ["React Native", "Firebase"],
-    status: "Planning"
-  },
-  {
-    name: "Laravel API Development",
-    tech: ["Laravel", "MySQL", "JWT"],
-    status: "In Progress"
-  }
-];
-```
-
-### Learning Journey
-- **Currently Learning**: symfony, React Native, Laravel Advanced Features
-- **Next Goals**: GraphQL, Docker, Microservices
-- **Always Improving**: Clean Code, Design Patterns, Performance Optimization
-
-
-
----
-
-## Fun Facts & Quotes
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Quote" />
-</div>
-
----
 
 ## GitHub Activity
 
