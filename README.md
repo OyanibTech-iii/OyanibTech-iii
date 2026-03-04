@@ -19,33 +19,6 @@
 
 ---
 
-## About Me
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF"/>
-</div>
-
-```typescript
-const pacifico = {
-  name: "Pacifico Morales Oyanib III",
-  location: "Philippines",
-  role: "Full-Stack Developer",
-  specialization: ["MERN Stack", "Web Development", "Mobile Development"],
-  currentFocus: ["React Native", "Laravel", "Modern Web Technologies"],
-  passions: ["Clean Code", "Problem Solving", "Continuous Learning"],
-  motto: "Code with purpose, build with passion!"
-};
-```
-
-### Quick Facts
-- Currently working on **Full-Stack Web Applications**
-- Currently learning **React Native & Laravel**
-- Looking to collaborate on **Open Source Projects**
-- Ask me about **HTML, CSS, JavaScript, PHP, Java, C++**
-- Reach me at **pacificooyanib@gmail.com**
-- Fun fact: **I turn coffee into code!**
-
----
 
 ## Tech Stack & Tools
 
