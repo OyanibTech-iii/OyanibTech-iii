@@ -19,9 +19,6 @@
 
 ---
 
-
-## Tech Stack & Tools
-
 <div align="center">
 
 ### Frontend Development
@@ -80,8 +77,6 @@
 
 ---
 
-## Connect With Me
-
 <div align="center">
   <a href="https://pacificooyanib-project-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
@@ -103,13 +98,10 @@
 ---
 
 <div align="center">
-  ## Github Analytics
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oyanibtech-iii&theme=radical&hide_border=true&background=0d1117&stroke=0EEAF7&ring=0EEAF7&fire=0EEAF7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0EEAF7&sideLabels=0EEAF7&dates=ffffff" alt="GitHub Streak" />
 </div>
 
 ---
-
-## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=oyanibtech-iii&theme=react-dark&bg_color=0d1117&hide_border=true&line=0EEAF7&point=0EEAF7&color=ffffff" alt="Contribution Graph" />
@@ -117,8 +109,6 @@
 
 ---
 
-
-## GitHub Activity
 
 <picture>
   <source
@@ -137,7 +127,7 @@
 
 <div align="center">
   
-  ### Thank you for visiting my profile!
+  ## Thank you for visiting my profile!
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EEAF7,100:4C956C&height=120&section=footer&animation=fadeIn" width="100%"/>
   
