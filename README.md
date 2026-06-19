@@ -77,7 +77,7 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://pacificooyanib-project-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
@@ -93,7 +93,7 @@
   <a href="https://twitter.com/pacificooyanib" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-</div>
+</div> -->
 
 ---
 
@@ -103,9 +103,9 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=oyanibtech-iii&theme=react-dark&bg_color=0d1117&hide_border=true&line=0EEAF7&point=0EEAF7&color=ffffff" alt="Contribution Graph" />
-</div>
+</div> -->
 
 ---
 
