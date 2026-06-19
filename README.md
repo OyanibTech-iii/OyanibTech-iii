@@ -127,9 +127,7 @@
 
 <div align="center">
   
-  ## Thank you for visiting my profile!
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EEAF7,100:4C956C&height=120&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EEAF7,100:4C956C&height=200&section=header&text=Thank%20for%20visiting%20my%20profile&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20Specialist&descAlignY=55&descSize=16" width="100%"/>
   
 </div>
 
