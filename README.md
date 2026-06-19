@@ -125,9 +125,9 @@
   />
 </picture>
 
-<div align="center">
+<!-- <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EEAF7,100:4C956C&height=200&section=header&text=Thank%20you%20for%20visiting%20my%20profile&fontSize=16&fontColor=ffffff&animation=fadeIn&fontAlignY=38&" width="100%"/>
   
-</div>
+</div> -->
 
